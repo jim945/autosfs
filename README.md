@@ -70,6 +70,8 @@ initrd \
 
 ## Test image with ArchLinux and bootloaders for EFI and BIOS with built-in bootsfs
 
+https://mega.nz/folder/l1Z0BKwS#XP3b9wR5lVGdBDiyZ9axeg
+
 An example of a live image with ArchLinux.
 
 Contains xfce4, firefox and many other graphical and console utilities.
