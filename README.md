@@ -2,7 +2,9 @@
 Config GRUB2 for loading systems from sfs containers using loopsfs.cfg
 
 Autosfs is designed to search for and automatically start operating systems from sfs files from GRUB2.
-This script looks for .sfs files in the /bootsfs directory containing the configuration file /boot/grub/loopsfs.cfg.
+This script looks for .sfs files in the /bootsfs directory containing the configuration file /boot/grub/loopsfs.cfg
+
+https://archlinux.org.ru/forum/topic/19907/
 
 ## About linux in sfs container
 
