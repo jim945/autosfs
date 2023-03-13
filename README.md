@@ -83,7 +83,9 @@ To rebuild the image, run the repackrootsfs command as root.
 
 ### Install
 
-Copy all files and directories to a flash drive.
+Copy all files and directories to a flash drive with fat32.
+
+EFI bootloader is detected automatically.
 
 To install the bootloader BIOS, run the installbiosbldr file on the flash drive as root. (Do not run the installbiosbldr file from the disk partitions on which the main operating system is installed!!!!)
 
